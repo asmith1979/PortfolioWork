@@ -1,5 +1,4 @@
-Linux Format Articles / Tutorials
----------------------------------
+# Linux Format Articles / Tutorials
 
 LXF262.pdf - My first submission to Linux Format. I created an AI for a Tic Tac Toe game program fully created in Python using the PyGame module library. Implementation fully documented.
 
