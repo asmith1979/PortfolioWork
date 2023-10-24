@@ -1,6 +1,6 @@
 **Dwarf Game Project**
 
-This started off as a purely experimental project where I wondered what would happen when I moved the whole game scene / environment around the player itself....turned out quite well and got published in Linux Format, issue 277.
+This started off as a purely experimental project where I wondered what would happen if I moved the whole game scene / environment around the player....turned out quite well and got published in Linux Format, issue 277.
 
 _Click YouTube link for demo_
 
