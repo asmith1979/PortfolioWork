@@ -21,5 +21,6 @@ Further changes to script code:
 TitleScene class in handle_events
    - Handle multiplayer or one player selection
 
+_YouTube video below shows running in test mode (localhost) on same machine...._
 
 [![Star-Fighter Multiplayer](https://img.youtube.com/vi/Tqp-eb_XjbI/0.jpg)](https://www.youtube.com/watch?v=Tqp-eb_XjbI)
