@@ -22,12 +22,6 @@ TitleScene class in handle_events
    - Handle multiplayer or one player selection
 
 
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
-
-
-[![Star-Fighter Multiplayer]
-(https://youtu.be/Tqp-eb_XjbI "Star-Fighter Multiplayer")
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
 
 
