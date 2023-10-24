@@ -22,7 +22,7 @@ TitleScene class in handle_events
    - Handle multiplayer or one player selection
 
 
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://img.youtube.com/vi/YBLkfFSI1B0/maxresdefault.jpg)](https://youtu.be/YBLkfFSI1B0)
 
 
 [![Star-Fighter Multiplayer]
