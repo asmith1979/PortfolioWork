@@ -21,6 +21,7 @@ Further changes to script code:
 TitleScene class in handle_events
    - Handle multiplayer or one player selection
 
+[![Star-Fighter Multiplayer]
 (https://youtu.be/Tqp-eb_XjbI "Star-Fighter Multiplayer")
 
 
