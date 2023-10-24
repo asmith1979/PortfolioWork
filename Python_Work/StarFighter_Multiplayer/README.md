@@ -2,7 +2,7 @@
 
 Source Code Additions for Multiplayer Functionality:
 
-Classes created in Star-Fighter\SOURCE\data\scripts\scenes.py to make the game multiplayer
+Classes created in _Star-Fighter\SOURCE\data\scripts\scenes.py_ to make the game multiplayer
 
 **MultiplayerMessage** - Stores message to be sent to client/server
 
